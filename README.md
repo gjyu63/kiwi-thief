@@ -1,2 +1,2 @@
 # kiwi-thief
-Stealing things from http://woeid.rosselliot.co.nz/lookup, multithread-ly
+Stealing things from a website, multithread-ly
